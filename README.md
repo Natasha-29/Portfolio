@@ -26,34 +26,19 @@
 
 #### Лабораторные работы
 
-ЛР 1: [ссылка](https://github.com/nas-tya/prog/blob/main/lr/sem5/sem5%20lr1.py)
+ЛР 1: [ссылка](https://github.com/Natasha-29/5-/tree/main/lr1)
 
-ЛР 2: [ссылка](https://github.com/nas-tya/prog/blob/main/lr/sem5/sem5%20lr2.py)
+ЛР 2: [ссылка](https://github.com/Natasha-29/5-/tree/main/lr2)
 
-ЛР 3: [ссылка](https://github.com/nas-tya/prog/tree/main/lr/sem5/sem5%20lr3)
+ЛР 3: [ссылка](https://github.com/Natasha-29/5-/tree/main/%D0%BB%D1%803)
 
-ЛР 4: [ссылка](https://github.com/nas-tya/prog/blob/main/lr/sem5/sem5%20lr4.md)
+ЛР 4: [ссылка](https://github.com/Natasha-29/5-/tree/main/%D0%9B%D1%804)
 
-ЛР 5: [ссылка](https://github.com/nas-tya/prog/blob/main/lr/sem5/sem5%20lr5.py)
+ЛР 5,6,7,9 + СР: [ссылка](https://github.com/Natasha-29/--3-./blob/master/%D0%A8%D0%B0%D1%84%D0%BE%D1%80%D0%BE%D1%81%D1%82_%D0%9D%D0%92_%22%D0%9F%D0%A0%D0%9E%D0%93_5_%D0%9B%D0%A0_%D0%97%D0%B0%D1%89%D0%B8%D1%82%D0%B0%22.ipynb)
 
-ЛР 6: [ссылка](https://github.com/nas-tya/prog/blob/main/lr/sem5/sem5%20lr6.py)
-
-ЛР 7: [ссылка](https://github.com/nas-tya/prog/blob/main/lr/sem5/sem5%20lr7.py)
-
-ЛР 8: 
-
-ЛР 9: [ссылка](https://github.com/nas-tya/prog/blob/main/lr/sem5/sem5%20lr9.py)
-
-#### Самостоятельные работы
-
-ИСР: [ссылка](https://github.com/nas-tya/prog/tree/main/sr/prog5-sr/isr)
-
-ВСР: [ссылка](https://github.com/nas-tya/prog/tree/main/sr/prog5-sr/vsr)
-
-README: [ссылка](https://github.com/nas-tya/prog/blob/main/sr/prog5-sr/README.md)
 
 ### 6 семестр
 
 #### Лабораторные работы
 
-ЛР 1-2: [ссылка](https://github.com/nas-tya/prog/tree/main/lr/sem6/sem6%20lr1-2)
+ЛР 1-6: [ссылка](https://github.com/Natasha-29/--3-./blob/master/%D0%A8%D0%B0%D1%84%D0%BE%D1%80%D0%BE%D1%81%D1%82%22%D0%9F%D0%A0%D0%9E%D0%93_6_%D0%9B%D0%A0_%D0%97%D0%B0%D1%89%D0%B8%D1%82%D0%B0_ipynb%22%22.ipynb)
