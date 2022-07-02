@@ -1,27 +1,17 @@
-# Portfolio
 # Портфолио по программированию
 
-## Шафорост Наталья 
+## Шафорост Наталья Викторовна
 
 ### 3 семестр
 
-#### Лабораторные работы
-
-Все ЛР третьего семестра я выложила как итоговый результат работы: созданный калькулятор. Прилагаю [ссылку](https://github.com/nas-tya/prog/tree/main/lr/sem3) на него, подробнее с ним ознакомиться можно в README.
-
-#### Самостоятельные работы
-
-ИСР: [ссылка]()
-
-ВСР: [ссылка](https://github.com/nas-tya/prog/tree/main/sr/prog3-sr/vsr)
-
-README: [ссылка](https://github.com/nas-tya/prog/blob/main/sr/prog3-sr/README.md)
+#### Лабораторные работы 1-8 
+[ссылка](https://replit.com/@Nataliya29/PuzzledStableEmbed#main.py)
 
 ### 4 семестр
 
 #### Лабораторные работы
 
-ЛР 1-2: [ссылка](https://github.com/nas-tya/prog/blob/main/lr/sem4/sem4%20lr1-2.py)
+ЛР 1-2: [ссылка](https://github.com/Natasha-29/4sem/blob/main/LR1-2)
 
 ЛР 3: [ссылка](https://github.com/nas-tya/prog/tree/main/lr/sem4/sem4%20lr3)
 
